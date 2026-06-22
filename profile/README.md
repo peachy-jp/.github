@@ -97,6 +97,32 @@
 
 <br><br>
 
+## 결과물
+
+| 홈화면 |
+| --- |
+| <img width="1312" height="912" alt="홈" src="https://github.com/user-attachments/assets/8ead71a8-17b7-4696-a825-e789e0c5cc9f" /> |
+
+| 영상 추가 |
+| --- |
+|<img width="1312" height="912" alt="추가" src="https://github.com/user-attachments/assets/a42c23e1-42eb-4212-ad17-fbf504a8c5cd" />|
+
+| 학습화면 | 피드백 |
+| --- | --- | 
+| <img width="1710" height="1073" alt="학습화면" src="https://github.com/user-attachments/assets/38a58a4f-ab89-4ad9-adc7-7a792798dfb9" /> |<img width="1710" height="1073" alt="피드백" src="https://github.com/user-attachments/assets/d0447163-2670-430e-a03e-43c0fea3548b" /> |
+
+| 추출모드 | anki 연동 | 
+| --- | --- |
+| <img width="1312" height="912" alt="추출모드" src="https://github.com/user-attachments/assets/c6484ff5-8a22-4032-8b4f-179aaa52e966" /> |  <img width="1312" height="912" alt="Anki 연동" src="https://github.com/user-attachments/assets/bd857a53-d065-4583-bac2-c34f557d75dd" /> | 
+
+| 대화 주제 | 목소리 사투리 설정 |
+| --- | --- |
+| <img width="1312" height="912" alt="대화1" src="https://github.com/user-attachments/assets/e49d3f1a-fc83-41a8-831e-1b46caf27a4e" /> | <img width="1312" height="912" alt="대화2" src="https://github.com/user-attachments/assets/6df7d96f-b582-423e-ae01-df1679c52df3" /> |
+
+| 실시간 대화 | 피드백 |
+| --- | --- |
+| <img width="1312" height="912" alt="대화3" src="https://github.com/user-attachments/assets/63d88526-b360-46bf-96dc-05cd56e341a1" /> | <img width="1312" height="912" alt="대화4" src="https://github.com/user-attachments/assets/e3950058-99ee-46bb-b1c6-717dfc901276" /> | 
+
 
 ## 기술 스택
 
